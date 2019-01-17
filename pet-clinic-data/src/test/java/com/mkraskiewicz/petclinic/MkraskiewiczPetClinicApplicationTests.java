@@ -10,7 +10,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 public class MkraskiewiczPetClinicApplicationTests {
 
     @Test
-    public void contextLoads() {
+    public void contextLoadsTest() {
     }
 
 }
