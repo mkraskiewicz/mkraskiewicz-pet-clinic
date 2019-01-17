@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.mkraskiewicz</groupId>
     <artifactId>mkraskiewicz-pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.2-SNAPSHOT</version>
     <name>mkraskiewicz-pet-clinic</name>
     <description>My Version of Pet Clinic Project</description>
 
