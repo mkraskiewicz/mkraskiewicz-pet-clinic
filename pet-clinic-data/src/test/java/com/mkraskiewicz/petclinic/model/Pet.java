@@ -1,4 +1,4 @@
-package com.mkraskiewicz.mkraskiewiczpetclinic.model;
+package com.mkraskiewicz.petclinic.model;
 
 import java.time.LocalDate;
 
@@ -9,7 +9,7 @@ public class Pet {
 
     private PetType petType;
     private Owner owner;
-    LocalDate birthDate;
+    private LocalDate birthDate;
 
     public PetType getPetType() {
         return petType;

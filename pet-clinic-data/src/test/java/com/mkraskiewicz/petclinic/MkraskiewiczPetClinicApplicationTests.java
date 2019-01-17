@@ -1,4 +1,4 @@
-package com.mkraskiewicz.mkraskiewiczpetclinic;
+package com.mkraskiewicz.petclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

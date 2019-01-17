@@ -1,4 +1,4 @@
-package com.mkraskiewicz.mkraskiewiczpetclinic.model;
+package com.mkraskiewicz.petclinic.model;
 
 /**
  * Created by Maciej on 15/01/2019

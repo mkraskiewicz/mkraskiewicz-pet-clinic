@@ -1,4 +1,4 @@
-package com.mkraskiewicz.mkraskiewiczpetclinic;
+package com.mkraskiewicz.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
