@@ -55,7 +55,10 @@
             </plugin>
         </plugins>
     </build>
-
+    <scm>
+        <developerConnection>scm:git:https://github.com/mkraskiewicz/mkraskiewicz-pet-clinic.git</developerConnection>
+        <tag>mkraskiewicz-pet-clinic-0.0.1</tag>
+    </scm>
 
 
 </project>
