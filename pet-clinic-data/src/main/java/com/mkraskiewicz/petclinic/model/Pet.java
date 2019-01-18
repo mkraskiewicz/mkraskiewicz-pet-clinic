@@ -2,10 +2,7 @@ package com.mkraskiewicz.petclinic.model;
 
 import java.time.LocalDate;
 
-/**
- * Created by Maciej on 15/01/2019
- */
-public class Pet {
+public class Pet extends BaseEntity{
 
     private PetType petType;
     private Owner owner;
