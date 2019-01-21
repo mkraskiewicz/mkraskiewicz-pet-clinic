@@ -3,7 +3,7 @@
     <parent>
         <artifactId>mkraskiewicz-pet-clinic</artifactId>
         <groupId>com.mkraskiewicz</groupId>
-        <version>0.0.1-SNAPSHOT</version>
+        <version>version 0.1</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
@@ -23,7 +23,7 @@
         <dependency>
             <artifactId>pet-clinic-data</artifactId>
             <groupId>com.mkraskiewicz</groupId>
-            <version>0.0.1-SNAPSHOT</version>
+            <version>version 0.1</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
