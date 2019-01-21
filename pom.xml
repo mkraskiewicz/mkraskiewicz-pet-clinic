@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.mkraskiewicz</groupId>
     <artifactId>mkraskiewicz-pet-clinic</artifactId>
-    <version>0.0.2-SNAPSHOT</version>
+    <version>0.2</version>
     <name>mkraskiewicz-pet-clinic</name>
     <description>My Version of Pet Clinic Project</description>
 
@@ -56,7 +56,7 @@
     </build>
     <scm>
         <developerConnection>scm:git:https://github.com/mkraskiewicz/mkraskiewicz-pet-clinic.git</developerConnection>
-        <tag>mkraskiewicz-pet-clinic-0.0.1</tag>
+        <tag>version-0.2</tag>
     </scm>
 
 
