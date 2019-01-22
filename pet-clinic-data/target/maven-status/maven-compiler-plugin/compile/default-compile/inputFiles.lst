@@ -1,14 +1,12 @@
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\repositories\SpecialtyReposiory.java
-C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\VetServiceMap.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\model\Person.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\SpecialityService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\repositories\VetRepository.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\repositories\OwnerRepository.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\springdatajpa\SppecialtyJpaService.java
-C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\PetServiceMap.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\PetTypeMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\VisitService.java
-C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\VisitServiceMap.java
+C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\VisitMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\springdatajpa\PetTypeJpaService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\model\Pet.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\model\Visit.java
@@ -16,6 +14,7 @@ C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\m
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\OwnerService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\model\Vet.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\repositories\PetTypeRepository.java
+C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\PetMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\model\Speciality.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\SpecialityMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\springdatajpa\VisitJpaService.java
@@ -27,8 +26,9 @@ C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\m
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\repositories\PetRepository.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\AbstractMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\CrudService.java
-C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\OwnerServiceMap.java
+C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\OwnerMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\PetTypeService.java
+C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\map\VetMapService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\springdatajpa\PetJpaService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\VetService.java
 C:\Users\kraskiewiczm\IdeaProjects\mkraskiewicz-pet-clinic\pet-clinic-data\src\main\java\com\mkraskiewicz\petclinic\services\springdatajpa\OwnerJpaService.java

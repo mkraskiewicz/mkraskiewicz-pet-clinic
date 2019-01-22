@@ -1,4 +1,6 @@
-com\mkraskiewicz\petclinic\services\map\PetServiceMap.class
+com\mkraskiewicz\petclinic\services\map\PetMapService.class
+com\mkraskiewicz\petclinic\services\map\VetMapService.class
+com\mkraskiewicz\petclinic\services\map\VisitMapService.class
 com\mkraskiewicz\petclinic\services\CrudService.class
 com\mkraskiewicz\petclinic\services\springdatajpa\SppecialtyJpaService.class
 com\mkraskiewicz\petclinic\repositories\OwnerRepository.class
@@ -6,10 +8,10 @@ com\mkraskiewicz\petclinic\repositories\PetRepository.class
 com\mkraskiewicz\petclinic\services\map\AbstractMapService.class
 com\mkraskiewicz\petclinic\model\Pet.class
 com\mkraskiewicz\petclinic\model\Vet.class
-com\mkraskiewicz\petclinic\services\map\OwnerServiceMap.class
 com\mkraskiewicz\petclinic\services\map\PetTypeMapService.class
 com\mkraskiewicz\petclinic\model\Vet$VetBuilder.class
 com\mkraskiewicz\petclinic\repositories\VetRepository.class
+com\mkraskiewicz\petclinic\services\map\OwnerMapService.class
 com\mkraskiewicz\petclinic\model\BaseEntity.class
 com\mkraskiewicz\petclinic\model\Owner.class
 com\mkraskiewicz\petclinic\model\Person.class
@@ -35,6 +37,4 @@ com\mkraskiewicz\petclinic\model\Pet$PetBuilder.class
 com\mkraskiewicz\petclinic\model\PetType.class
 com\mkraskiewicz\petclinic\model\Owner$OwnerBuilder.class
 com\mkraskiewicz\petclinic\services\map\SpecialityMapService.class
-com\mkraskiewicz\petclinic\services\map\VetServiceMap.class
 com\mkraskiewicz\petclinic\services\springdatajpa\OwnerJpaService.class
-com\mkraskiewicz\petclinic\services\map\VisitServiceMap.class
